@@ -1,6 +1,6 @@
 <?php 
-echo "hii i am bharat "
+echo "hii i am bharat ";
 
-phpinfo();
+phpinfo()
 
 ?>
